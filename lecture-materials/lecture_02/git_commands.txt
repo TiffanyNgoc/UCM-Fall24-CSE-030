@@ -1,0 +1,7 @@
+Please execute the following commands:
+
+git config --global user.name "[Your first and last name, as per your student records]"
+
+git config --global user.email "[your UC Merced email address]"
+
+git config --global init.defaultBranch main
