@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "gdb",
+      "request": "launch",
+      "name": "Debug Current Project",
+      "target": "/home/me/workspace/lecture-materials/lecture_01/app",
+      "cwd": "/home/me/workspace/lecture-materials/lecture_01",
+      "preLaunchTask": "Build Current Project"
+    }
+  ]
+}
